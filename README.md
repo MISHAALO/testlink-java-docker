@@ -22,12 +22,5 @@ The API version matches the version of TestLink it was developed for. So for Tes
 testlink-java-api-1.9.15-x. Where x is an internal sequential number, used to distinguish between project releases.
 
 If you use the API version 1.9.15-0 against TestLink 1.9.16, there is no guarantee it will work.
-
-## Support
-
-This is an Open Source project. Pull requests are welcome! When reporting issues, please include as much
-information as possible.
-
-If you have an issue that you need for your organisation and you need it urgentely, please consider contacting the
-author about sponsored work, or work with companies that contribute to Open Source software. Remember, this is an
-Open Source project, maintained by volunteers on their spare time.
+ 
+https://www.youtube.com/watch?v=CktDiS_-n_8
