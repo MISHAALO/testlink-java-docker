@@ -1,14 +1,3 @@
-TestLink Java API
-=================
-
-[![Build Status](https://travis-ci.org/kinow/testlink-java-api.svg?branch=master)](https://travis-ci.org/kinow/testlink-java-api)
-[![Coverage Status](https://coveralls.io/repos/kinow/testlink-java-api/badge.svg?branch=master)](https://coveralls.io/r/kinow/testlink-java-api)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/br.eti.kinoshita/testlink-java-api/badge.svg)](https://maven-badges.herokuapp.com/maven-central/br.eti.kinoshita/testlink-java-api/)
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X1618T2)
-
-Project homepage: http://kinow.github.io/testlink-java-api
 
 TestLink Java API is a Java API that interfaces TestLink XML-RPC API. This API lets you call TestLink internal
 methods such as createTestProject, uploadAttachment, getTestProjectByName among others.
